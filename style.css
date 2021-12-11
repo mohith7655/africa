@@ -1,0 +1,80 @@
+
+
+
+
+svg {
+  display: block;
+  width: 100%;
+  transform: scale(1.0);
+        
+}
+#states *.on {
+  fill: yellow;
+width: 150px;
+height: 150px;
+  
+}
+
+
+.list-of-states {
+  margin: 0;
+  padding: 0;
+  columns: 100px auto;
+  column-gap: 10px;
+  font-size: 12px;
+  list-style: none;
+
+}
+.list-of-states li {
+  padding: 2px 4px;
+  display: inline-block;
+  width: 100%;
+
+}
+.list-of-states li.on {
+  background:;
+  color: red;
+  font-weight: bold;
+
+
+}
+    path {
+        fill:#c6c6c6;
+
+    }
+
+ 
+.navbar-inverse .navbar-nav>li>a {
+    font-family: 'Titillium Web', sans-serif;
+        color: #fff;
+        font-size: 14px;
+        
+    }
+
+    .firstimg{
+        margin-top:-125px;
+        margin-left: 50px;
+    }
+
+    .texth2{
+        margin-left: 200px
+    }
+    .seclogo{
+        margin-top:-125px;
+        margin-left: 20px;
+    }
+    .thirdlogo{
+        margin-top:-180px;
+        margin-left: 1200px;
+    }
+
+    .rediv{
+        background-color: #af0043;
+    }
+    .white{
+        
+        margin-left: 50px;
+        margin-right: 100px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
